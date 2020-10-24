@@ -1,3 +1,6 @@
+<div align=center>
+  
+  
 <h1 align="center">Reaction-Role</h1>
 
 - Project Pics
@@ -21,5 +24,12 @@
 <a href="https://github.com/TeamDarkDevs/Reaction-Role">
   <img src="https://cdn.discordapp.com/avatars/697279777974911077/a_80ca0dd9e031ca03ceadfe57c65336c0.gif?size=1024" />
 </a>
+ 
+### Our Discord Server 
 
- - [Support Guild](https://discord.gg/devs)
+
+  
+<a href="https://discord.gg/eFAZqrW"><img src="https://discordapp.com/api/guilds/733807204938940447/embed.png?style=banner1"/></a>
+<br><br>
+
+
